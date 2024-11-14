@@ -6,7 +6,6 @@ plugins {
 android {
     namespace = "com.example.onboardingapp"
     compileSdk = 35  // Actualizado a 35
-
     defaultConfig {
         applicationId = "com.example.onboardingapp"
         minSdk = 24
